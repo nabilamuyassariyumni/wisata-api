@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "nama": "Pantai Air Manis",
+    "deskripsi": "Pantai terkenal dengan legenda Malin Kundang",
+    "alamat": {
+      "jalan": "Jl. Malin Kundang",
+      "kota": "Padang",
+      "kode_pos": "25217",
+      "geo": {
+        "lat": "-0.9895",
+        "lng": "100.3605"
+      }
+    },
+    "gambar": "https://example.com/airmanis.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "nama": "Pantai Padang",
+    "deskripsi": "Pantai dengan pemandangan sunset terbaik",
+    "alamat": {
+      "jalan": "Jl. Samudera",
+      "kota": "Padang",
+      "kode_pos": "25117",
+      "geo": {
+        "lat": "-0.9471",
+        "lng": "100.3510"
+      }
+    },
+    "gambar": "https://example.com/pantaipadang.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 3,
+    "nama": "Jembatan Siti Nurbaya",
+    "deskripsi": "Ikon wisata kota Padang di malam hari",
+    "alamat": {
+      "jalan": "Jl. Siti Nurbaya",
+      "kota": "Padang",
+      "kode_pos": "25118",
+      "geo": {
+        "lat": "-0.9623",
+        "lng": "100.3600"
+      }
+    },
+    "gambar": "https://example.com/sitinurbaya.jpg",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "nama": "Gunung Padang",
+    "deskripsi": "Spot hiking ringan dengan view laut",
+    "alamat": {
+      "jalan": "Jl. Gunung Padang",
+      "kota": "Padang",
+      "kode_pos": "25118",
+      "geo": {
+        "lat": "-0.9615",
+        "lng": "100.3582"
+      }
+    },
+    "gambar": "https://example.com/gunungpadang.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "nama": "Museum Adityawarman",
+    "deskripsi": "Museum budaya Minangkabau",
+    "alamat": {
+      "jalan": "Jl. Diponegoro",
+      "kota": "Padang",
+      "kode_pos": "25114",
+      "geo": {
+        "lat": "-0.9492",
+        "lng": "100.3608"
+      }
+    },
+    "gambar": "https://example.com/museum.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "nama": "Pulau Pasumpahan",
+    "deskripsi": "Pulau eksotis dengan air jernih",
+    "alamat": {
+      "jalan": "Bungus Teluk Kabung",
+      "kota": "Padang",
+      "kode_pos": "25245",
+      "geo": {
+        "lat": "-1.1075",
+        "lng": "100.3722"
+      }
+    },
+    "gambar": "https://example.com/pasumpahan.jpg",
+    "rating": 4.8
+  },
+  {
+    "id": 7,
+    "nama": "Air Terjun Lubuk Hitam",
+    "deskripsi": "Air terjun alami di tengah hutan",
+    "alamat": {
+      "jalan": "Lubuk Kilangan",
+      "kota": "Padang",
+      "kode_pos": "25158",
+      "geo": {
+        "lat": "-0.9872",
+        "lng": "100.4573"
+      }
+    },
+    "gambar": "https://example.com/lubukhitam.jpg",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "nama": "Pantai Caroline",
+    "deskripsi": "Pantai tenang cocok untuk keluarga",
+    "alamat": {
+      "jalan": "Bungus",
+      "kota": "Padang",
+      "kode_pos": "25245",
+      "geo": {
+        "lat": "-1.1040",
+        "lng": "100.3935"
+      }
+    },
+    "gambar": "https://example.com/caroline.jpg",
+    "rating": 4.4
+  },
+  {
+    "id": 9,
+    "nama": "Bukit Nobita",
+    "deskripsi": "Spot foto dengan view kota Padang",
+    "alamat": {
+      "jalan": "Kampung Jua",
+      "kota": "Padang",
+      "kode_pos": "25117",
+      "geo": {
+        "lat": "-0.9331",
+        "lng": "100.3692"
+      }
+    },
+    "gambar": "https://example.com/nobita.jpg",
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "nama": "Pantai Nirwana",
+    "deskripsi": "Pantai dengan pasir putih dan ombak tenang",
+    "alamat": {
+      "jalan": "Teluk Bayur",
+      "kota": "Padang",
+      "kode_pos": "25217",
+      "geo": {
+        "lat": "-1.0002",
+        "lng": "100.3633"
+      }
+    },
+    "gambar": "https://example.com/nirwana.jpg",
+    "rating": 4.6
+  }
+]
